@@ -1,0 +1,26 @@
+  {
+  "name": "Justin Lombardi",
+    "website": "https://github.com/thejustinlombardi",
+    "linkedin": "https://www.linkedin.com/in/justin-lombardi/",
+    "github": "thejustinlombardi",
+    "email": "thejustinlombardi@gmail.com",
+    "resume": "",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Java",
+        "C++"
+    ],
+    "otherSkills": [
+        "Adobe Premiere Pro",
+        "Pro Tools",
+        "Avid Media Composer"
+    ]
+}
